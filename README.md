@@ -1,5 +1,5 @@
 ### oi, I am Iliyaan 👋 ![](https://komarev.com/ghpvc/?username=iliyaan&color=yellow)
-## Fun fact: I have always wanted to work for NASA >_<
+## Fun fact: 🤔 I have always wanted to work for NASA >_<
 <!--
 **iliyaan/iliyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
