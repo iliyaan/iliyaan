@@ -1,4 +1,4 @@
-### oi, I am Iliyaan 👋 ![](https://komarev.com/ghpvc/?username=iliyaan&color=yellow)
+### oi, I am Iliyaan 👋 ![]
 <!--
 **iliyaan/iliyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
